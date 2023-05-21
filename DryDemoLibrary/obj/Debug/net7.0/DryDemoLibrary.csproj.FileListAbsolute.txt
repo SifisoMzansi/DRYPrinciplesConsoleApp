@@ -1,0 +1,12 @@
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\bin\Debug\net7.0\DryDemoLibrary.deps.json
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\bin\Debug\net7.0\DryDemoLibrary.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\bin\Debug\net7.0\DryDemoLibrary.pdb
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.csproj.AssemblyReference.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.AssemblyInfoInputs.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.AssemblyInfo.cs
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\refint\DryDemoLibrary.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\DryDemoLibrary.pdb
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\DryDemoLibrary\obj\Debug\net7.0\ref\DryDemoLibrary.dll
