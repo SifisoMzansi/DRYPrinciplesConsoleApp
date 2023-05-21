@@ -1,0 +1,15 @@
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\DRY\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll
